@@ -1,6 +1,6 @@
-Project Name: University-Course-Manager 
-Description: A Java app with login/signup, where teachers can manage courses, remove enrollments, and update profiles. Students can register for courses and edit profiles. Features role-based dashboards with modern UI. 
-Course Name: Object Oriented Programming (CSC241)
+Project Name: BloodBank-Management-System 
+Description: The Blood Bank Management System is a comprehensive software solution designed to manage blood inventory, donor information, and reporting functionalities. It features a secure authentication system and various specialized tabs to streamline blood bank operations.
+Course Name: Database Systems (CSC270)
 Schema Design: https://imgur.com/a/kwcoR41
 
 --Outputs--
@@ -13,4 +13,4 @@ Student DashBoard: https://imgur.com/a/T1BgeHr
 
 Teacher DashBoard: https://imgur.com/a/D2amWqI
 
-Requirements: JAVA SE-21, JDBC 8.2.0
+Requirements: PyQt, SQL
